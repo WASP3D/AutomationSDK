@@ -1,0 +1,12 @@
+E:\Code\Ver 6.5\Wasp3d_GIT_SDK\SocketConnectionSample\Build\BeeSys.Wasp3D.Utility.ChatClient.exe.config
+E:\Code\Ver 6.5\Wasp3d_GIT_SDK\SocketConnectionSample\Build\BeeSys.Wasp3D.Utility.ChatClient.exe
+E:\Code\Ver 6.5\Wasp3d_GIT_SDK\SocketConnectionSample\Build\BeeSys.Wasp3D.Utility.ChatClient.pdb
+E:\Code\Ver 6.5\Wasp3d_GIT_SDK\SocketConnectionSample\obj\Debug\SocketConnectionSample.csproj.AssemblyReference.cache
+E:\Code\Ver 6.5\Wasp3d_GIT_SDK\SocketConnectionSample\obj\Debug\SocketConnectionSample.csproj.SuggestedBindingRedirects.cache
+E:\Code\Ver 6.5\Wasp3d_GIT_SDK\SocketConnectionSample\obj\Debug\BeeSys.Wasp3D.Utility.Form1.resources
+E:\Code\Ver 6.5\Wasp3d_GIT_SDK\SocketConnectionSample\obj\Debug\BeeSys.Wasp3D.Utility.frmChatClient.resources
+E:\Code\Ver 6.5\Wasp3d_GIT_SDK\SocketConnectionSample\obj\Debug\BeeSys.Wasp3D.Utility.Properties.Resources.resources
+E:\Code\Ver 6.5\Wasp3d_GIT_SDK\SocketConnectionSample\obj\Debug\SocketConnectionSample.csproj.GenerateResource.cache
+E:\Code\Ver 6.5\Wasp3d_GIT_SDK\SocketConnectionSample\obj\Debug\SocketConnectionSample.csproj.CoreCompileInputs.cache
+E:\Code\Ver 6.5\Wasp3d_GIT_SDK\SocketConnectionSample\obj\Debug\BeeSys.Wasp3D.Utility.ChatClient.exe
+E:\Code\Ver 6.5\Wasp3d_GIT_SDK\SocketConnectionSample\obj\Debug\BeeSys.Wasp3D.Utility.ChatClient.pdb
