@@ -31,11 +31,15 @@ namespace BeeSys.Wasp3D.Utility
             this._encoding = Encoding.UTF8;
         }
 
+        /// <summary>
+        /// Handle the event to create a socket 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnConnect_Click(object sender, EventArgs e)
         {
             try
             {
-                bool bValid = false;
                 //port number to send command on server.
                 //port must be same , as mention in Automation.xml at path C:\Program Files\Beehive Systems Ltd\WASP3D\Common\HostedAssemblies\AutomationAddIn
                 int iPort = int.Parse(txtPort.Text);
@@ -68,6 +72,7 @@ namespace BeeSys.Wasp3D.Utility
         {
             try
             {
+                //get the message from command text box and send to socket
                 if (this._socket != null)
                 {
                     byte[] bytes = this._encoding.GetBytes(this.txtCommand.Text);
@@ -77,7 +82,7 @@ namespace BeeSys.Wasp3D.Utility
                 }
                 else
                 {
-                    MessageBox.Show("please connect with sting server");
+                    MessageBox.Show("Please connect with Playout server.");
                 }
             }
             catch (Exception ex)
@@ -87,7 +92,9 @@ namespace BeeSys.Wasp3D.Utility
             }
         }
 
-
+        /// <summary>
+        /// Method to show exceptions occurs in application
+        /// </summary>
         private void WriteException(Exception ex)
         {
             MessageBox.Show(ex.Message);
@@ -141,10 +148,11 @@ namespace BeeSys.Wasp3D.Utility
                 byte[] numArray = new byte[1024];
                 if (this._socket.Receive(numArray, SocketFlags.None) <= 0)
                     return;
+
+                //get the response data from socket data
                 string responseData = Encoding.UTF8.GetString(numArray);
 
-
-
+                //check for invoke required to handle the cross thread exception
                 if (this.txtResponse.InvokeRequired)
                     this.txtResponse.Invoke(new Action(() =>
                     {
