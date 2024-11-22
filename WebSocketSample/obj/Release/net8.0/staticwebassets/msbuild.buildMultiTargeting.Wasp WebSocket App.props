@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Wasp WebSocket App.props" />
+</Project>

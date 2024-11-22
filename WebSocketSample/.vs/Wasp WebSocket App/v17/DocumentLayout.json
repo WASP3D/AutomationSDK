@@ -1,0 +1,78 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\M\\AutomationSDK\\WebSocketSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3759FE-5FDC-4C19-8A25-7BBEA73AF284}|Wasp WebSocket App.csproj|h:\\m\\automationsdk\\websocketsample\\wasp websocket app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0C3759FE-5FDC-4C19-8A25-7BBEA73AF284}|Wasp WebSocket App.csproj|solutionrelative:wasp websocket app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3759FE-5FDC-4C19-8A25-7BBEA73AF284}|Wasp WebSocket App.csproj|h:\\m\\automationsdk\\websocketsample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C3759FE-5FDC-4C19-8A25-7BBEA73AF284}|Wasp WebSocket App.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C3759FE-5FDC-4C19-8A25-7BBEA73AF284}|Wasp WebSocket App.csproj|h:\\m\\automationsdk\\websocketsample\\wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C3759FE-5FDC-4C19-8A25-7BBEA73AF284}|Wasp WebSocket App.csproj|solutionrelative:wwwroot\\js\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wasp WebSocket App",
+              "DocumentMoniker": "H:\\M\\AutomationSDK\\WebSocketSample\\Wasp WebSocket App.csproj",
+              "RelativeDocumentMoniker": "Wasp WebSocket App.csproj",
+              "ToolTip": "H:\\M\\AutomationSDK\\WebSocketSample\\Wasp WebSocket App.csproj",
+              "RelativeToolTip": "Wasp WebSocket App.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-22T06:58:56.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\M\\AutomationSDK\\WebSocketSample\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "H:\\M\\AutomationSDK\\WebSocketSample\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-22T06:57:02.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.js",
+              "DocumentMoniker": "H:\\M\\AutomationSDK\\WebSocketSample\\wwwroot\\js\\main.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\main.js",
+              "ToolTip": "H:\\M\\AutomationSDK\\WebSocketSample\\wwwroot\\js\\main.js",
+              "RelativeToolTip": "wwwroot\\js\\main.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-11-22T06:55:35.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

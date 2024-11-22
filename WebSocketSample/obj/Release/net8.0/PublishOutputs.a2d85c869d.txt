@@ -1,0 +1,7 @@
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Release\net8.0\PubTmp\Out\Wasp WebSocket App.exe
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Release\net8.0\PubTmp\Out\Wasp WebSocket App.dll
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Release\net8.0\PubTmp\Out\Wasp WebSocket App.deps.json
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Release\net8.0\PubTmp\Out\Wasp WebSocket App.runtimeconfig.json
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Release\net8.0\PubTmp\Out\Wasp WebSocket App.pdb

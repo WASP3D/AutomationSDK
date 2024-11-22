@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>Wasp_WebSocket_App</RootNamespace>
+    <AssemblyVersion>6.5.30.1643</AssemblyVersion>
+    <FileVersion>6.5.30.1643</FileVersion>
+  </PropertyGroup>
+
+</Project>

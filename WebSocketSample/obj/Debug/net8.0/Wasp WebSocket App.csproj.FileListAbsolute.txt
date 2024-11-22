@@ -1,0 +1,94 @@
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\bin\Debug\net8.0\appsettings.Development.json
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\bin\Debug\net8.0\appsettings.json
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\bin\Debug\net8.0\Wasp WebSocket App.staticwebassets.runtime.json
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\bin\Debug\net8.0\Wasp WebSocket App.exe
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\bin\Debug\net8.0\Wasp WebSocket App.deps.json
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\bin\Debug\net8.0\Wasp WebSocket App.runtimeconfig.json
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\bin\Debug\net8.0\Wasp WebSocket App.dll
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\bin\Debug\net8.0\Wasp WebSocket App.pdb
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.AssemblyInfoInputs.cache
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.AssemblyInfo.cs
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.csproj.CoreCompileInputs.cache
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.RazorAssemblyInfo.cache
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.RazorAssemblyInfo.cs
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\staticwebassets\msbuild.Wasp WebSocket App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\staticwebassets\msbuild.build.Wasp WebSocket App.props
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Wasp WebSocket App.props
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Wasp WebSocket App.props
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\scopedcss\bundle\Wasp WebSocket App.styles.css
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\scopedcss\projectbundle\Wasp WebSocket App.bundle.scp.css
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.dll
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\refint\Wasp WebSocket App.dll
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.pdb
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.genruntimeconfig.cache
+D:\Projects\6.5\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\ref\Wasp WebSocket App.dll
+D:\SDK\websocket-app\Wasp WebSocket App\bin\Debug\net8.0\appsettings.Development.json
+D:\SDK\websocket-app\Wasp WebSocket App\bin\Debug\net8.0\appsettings.json
+D:\SDK\websocket-app\Wasp WebSocket App\bin\Debug\net8.0\Wasp WebSocket App.staticwebassets.runtime.json
+D:\SDK\websocket-app\Wasp WebSocket App\bin\Debug\net8.0\Wasp WebSocket App.exe
+D:\SDK\websocket-app\Wasp WebSocket App\bin\Debug\net8.0\Wasp WebSocket App.deps.json
+D:\SDK\websocket-app\Wasp WebSocket App\bin\Debug\net8.0\Wasp WebSocket App.runtimeconfig.json
+D:\SDK\websocket-app\Wasp WebSocket App\bin\Debug\net8.0\Wasp WebSocket App.dll
+D:\SDK\websocket-app\Wasp WebSocket App\bin\Debug\net8.0\Wasp WebSocket App.pdb
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.GeneratedMSBuildEditorConfig.editorconfig
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.AssemblyInfoInputs.cache
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.AssemblyInfo.cs
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.csproj.CoreCompileInputs.cache
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.MvcApplicationPartsAssemblyInfo.cache
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.RazorAssemblyInfo.cache
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.RazorAssemblyInfo.cs
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\staticwebassets.build.json
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\staticwebassets.development.json
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\staticwebassets\msbuild.Wasp WebSocket App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\staticwebassets\msbuild.build.Wasp WebSocket App.props
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Wasp WebSocket App.props
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Wasp WebSocket App.props
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\staticwebassets.pack.json
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\scopedcss\bundle\Wasp WebSocket App.styles.css
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\scopedcss\projectbundle\Wasp WebSocket App.bundle.scp.css
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.dll
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\refint\Wasp WebSocket App.dll
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.pdb
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\Wasp WebSocket App.genruntimeconfig.cache
+D:\SDK\websocket-app\Wasp WebSocket App\obj\Debug\net8.0\ref\Wasp WebSocket App.dll
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\Wasp WebSocket App.pdb
+H:\M\AutomationSDK\WebSocketSample\bin\Debug\net8.0\appsettings.Development.json
+H:\M\AutomationSDK\WebSocketSample\bin\Debug\net8.0\appsettings.json
+H:\M\AutomationSDK\WebSocketSample\bin\Debug\net8.0\Wasp WebSocket App.staticwebassets.runtime.json
+H:\M\AutomationSDK\WebSocketSample\bin\Debug\net8.0\Wasp WebSocket App.staticwebassets.endpoints.json
+H:\M\AutomationSDK\WebSocketSample\bin\Debug\net8.0\Wasp WebSocket App.exe
+H:\M\AutomationSDK\WebSocketSample\bin\Debug\net8.0\Wasp WebSocket App.deps.json
+H:\M\AutomationSDK\WebSocketSample\bin\Debug\net8.0\Wasp WebSocket App.runtimeconfig.json
+H:\M\AutomationSDK\WebSocketSample\bin\Debug\net8.0\Wasp WebSocket App.dll
+H:\M\AutomationSDK\WebSocketSample\bin\Debug\net8.0\Wasp WebSocket App.pdb
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\Wasp WebSocket App.GeneratedMSBuildEditorConfig.editorconfig
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\Wasp WebSocket App.AssemblyInfoInputs.cache
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\Wasp WebSocket App.AssemblyInfo.cs
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\Wasp WebSocket App.csproj.CoreCompileInputs.cache
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\Wasp WebSocket App.MvcApplicationPartsAssemblyInfo.cache
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\Wasp WebSocket App.RazorAssemblyInfo.cache
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\Wasp WebSocket App.RazorAssemblyInfo.cs
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\Wasp WebSocket App.sourcelink.json
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\scopedcss\bundle\Wasp WebSocket App.styles.css
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\scopedcss\projectbundle\Wasp WebSocket App.bundle.scp.css
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\staticwebassets.build.json
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\staticwebassets.development.json
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\staticwebassets\msbuild.Wasp WebSocket App.Microsoft.AspNetCore.StaticWebAssets.props
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\staticwebassets\msbuild.Wasp WebSocket App.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\staticwebassets\msbuild.build.Wasp WebSocket App.props
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Wasp WebSocket App.props
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Wasp WebSocket App.props
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\staticwebassets.pack.json
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\Wasp WebSocket App.dll
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\refint\Wasp WebSocket App.dll
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\Wasp WebSocket App.genruntimeconfig.cache
+H:\M\AutomationSDK\WebSocketSample\obj\Debug\net8.0\ref\Wasp WebSocket App.dll
